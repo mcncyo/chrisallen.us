@@ -29,8 +29,8 @@ RUN hugo --gc --enableGitInfo
 ###############/usr/share/nginx/html
 FROM nginx:stable-alpine
 COPY --from=builder /src/public /usr/share/nginx/html
-#COPY deploy/nginx/default.conf /etc/nginx/conf.d/default.conf
-#COPY deploy/nginx/nginx.conf /etc/nginx/nginx.conf
+COPY deploy/nginx/default.conf /etc/nginx/conf.d/default.conf
+COPY deploy/nginx/nginx.conf /etc/nginx/nginx.conf
 EXPOSE 80/tcp
 
 # Health Check
