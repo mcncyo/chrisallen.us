@@ -1,7 +1,7 @@
 ###############
 # Build Stage #
 ###############
-FROM computerhacking101/docker-hugo:latest as builder
+FROM mcncyo/hugo-builder:latest as builder
 
 WORKDIR /src
 COPY . /src
