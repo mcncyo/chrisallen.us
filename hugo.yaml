@@ -15,7 +15,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Chris allen's personal site
-  description: Explore the life of Chris Allen, an IT pro and tech enthusiast. Dive into his tech projects, daily updates, and personal stories. Join Chris on his journey through work, hobbies, and life
+  description: Explore the life of Chris Allen, an IT pro and tech enthusiast. Dive into his tech projects, daily updates, and personal stories.
   keywords: [Blog, Portfolio, PaperMod]
   author: Chris Allen
   # author: ["Me", "You"] # multiple authors
