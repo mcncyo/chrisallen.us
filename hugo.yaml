@@ -73,13 +73,13 @@ params:
   homeInfoParams:
     Title: "Hi there \U0001F44B"
     Content: Explore the life of Chris Allen, an IT pro and tech enthusiast. Dive into his tech projects, daily updates, and personal stories. Join Chris on his journey through work, hobbies, and life
-  socialIcons:
-    - name: x
-      url: https://x.com/mcncyo
-    - name: stackoverflow
-      url: https://stackoverflow.com/users/11460046/chris-allen
-    - name: github
-      url: https://github.com/mcncyo
+  #socialIcons:
+  #  - name: x
+  #    url: https://x.com/mcncyo
+  #  - name: stackoverflow
+  #    url: https://stackoverflow.com/users/11460046/chris-allen
+  #  - name: github
+  #    url: https://github.com/mcncyo
 
   analytics:
     google:
