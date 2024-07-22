@@ -5,7 +5,7 @@ draft: false
 author: "Chris Allen"
 categories: ["blog"]
 tags: ["youtube", "syncthing", "wordpress", "hugo"]
-description: "Information about me switching from wordpress to hugo site"
+description: "Explore the journey of converting a WordPress site to Hugo with Chris Allen. Discover insights on site enhancements, future plans, and learn about converting ComputerHacking101.com to Hugo. Stay updated on upcoming tutorials, including how to use Syncthing, and find out what Chris is selling on eBay. Visit now for valuable tips and resources."
 ---
 I just convert this wordpress site to hugo.  There is still a few more things I want to change and add to it.  I also started working on converting <https://computerhacking101.com> to hugo also.
 

@@ -5,7 +5,7 @@ draft: false
 author: "Chris Allen"
 categories: ["blog"]
 tags: ["blog", "syncthing", "eBay", "Proxmox"]
-description: "What has been going on the last few weeks of my life"
+description: "Explore May 2024 on Chris Allen's blog. He shares moments from Mother's Day, a special anniversary, a new exercise routine, and his insights into Zabbix monitoring. Celebrate his nephew's graduation and join him in reflections on family, growth, and tech."
 ---
 
 I have been very busy with work and life and haven’t had much time for youtube or work on both of my websites. I have released a few videos on my youtube channel. I have been doing computer work as a contractor for the past few months. But I will have some free time for the next two weeks to get things done. I am planning on creating a how-to-use syncthing video soon. I also have been working on converting both websites from WordPress to a Hugo static site.
