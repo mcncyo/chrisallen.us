@@ -1,4 +1,4 @@
-baseURL: "https://chrisallen.us/"
+baseURL: https://chrisallen.us/
 title: Chris allen's personal site
 paginate: 5
 theme: PaperMod
@@ -15,7 +15,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Chris allen's personal site
-  description: Explore the life and interests of Chris Allen, a dedicated IT professional and tech enthusiast. Dive into updates about his daily life, tech projects, and personal milestones. Whether you're interested in tech tips, personal growth stories, or insights from his IT career, this blog offers a unique glimpse into the journey of a passionate computer nerd. Join Chris as he navigates through work, hobbies, and life adventures.
+  description: Explore the life of Chris Allen, an IT pro and tech enthusiast. Dive into his tech projects, daily updates, and personal stories. Join Chris on his journey through work, hobbies, and life
   keywords: [Blog, Portfolio, PaperMod]
   author: Chris Allen
   # author: ["Me", "You"] # multiple authors
@@ -43,14 +43,14 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    favicon: <link / abs url>
+    favicon16x16: <link / abs url>
+    favicon32x32: <link / abs url>
+    apple_touch_icon: <link / abs url>
+    safari_pinned_tab: <link / abs url>
 
   label:
-    text: "Home"
+    text: Home
     icon: /apple-touch-icon.png
     iconHeight: 35
 
@@ -72,16 +72,14 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Welcome to my new blog.   I am a computer nerd.  That have a regular IT job that supports users. I also create a few website including message boards, personal websites and personsal sites.   
-
-
+    Content: Explore the life of Chris Allen, an IT pro and tech enthusiast. Dive into his tech projects, daily updates, and personal stories. Join Chris on his journey through work, hobbies, and life
   socialIcons:
     - name: x
-      url: "https://x.com/mcncyo"
+      url: https://x.com/mcncyo
     - name: stackoverflow
-      url: "https://stackoverflow.com/users/11460046/chris-allen"
+      url: https://stackoverflow.com/users/11460046/chris-allen
     - name: github
-      url: "https://github.com/mcncyo"
+      url: https://github.com/mcncyo
 
   analytics:
     google:
@@ -97,8 +95,8 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
+    URL: https://github.com/<path_to_repo>/content
+    Text: Suggest Changes # edit text
     appendFilePath: true # to append file path to Edit link
 
   # for search
