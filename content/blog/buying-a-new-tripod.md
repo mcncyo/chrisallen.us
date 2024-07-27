@@ -1,5 +1,5 @@
 ---
-title: "a new tripod for my videos"
+title: "KINGJOY 75 inch Camera Tripod Review: Affordable Versatility for Phones and Cameras"
 date: 2022-09-11T00:00:00-05:00
 draft: false
 image: "images/post/07.jpg"
