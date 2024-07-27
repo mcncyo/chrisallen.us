@@ -1,5 +1,5 @@
 ---
-title: "Unlock the Power of Syncthing: Watch My Latest Video and Stay Tuned for More!
+title: "Unlock the Power of Syncthing: Watch My Latest Video and Stay Tuned for More!"
 date: 2022-02-22T13:25:23-05:00
 draft: false
 author: "Chris Allen"
@@ -18,8 +18,9 @@ What’s Covered in the Video:
 
 In this third episode of my Syncthing series, I cover a range of essential topics, including:
 
-    Basic Setup and Configuration: Get a comprehensive overview of how to set up Syncthing for optimal performance.
-    Practical Applications: Learn how to use Syncthing for various synchronization needs, whether for personal use or in a business environment.
+ -Basic Setup and Configuration: Get a comprehensive overview of how to set up Syncthing for optimal performance.
+
+ -Practical Applications: Learn how to use Syncthing for various synchronization needs, whether for personal use or in a business environment.
 
 But that’s not all! I’m excited to share that I have two more Syncthing videos planned, each packed with even more useful content:
 
@@ -37,9 +38,9 @@ Lastly, I’ll walk you through the installation and configuration of the Syncth
 
 Why You Should Tune In:
 
-    Stay Informed: Keep up with the latest Syncthing updates and best practices.
-    Optimize Your Workflow: Learn how to leverage Syncthing’s features to streamline your data management.
-    Get Expert Tips: Benefit from hands-on tutorials and practical advice.
+Stay Informed: Keep up with the latest Syncthing updates and best practices.
+Optimize Your Workflow: Learn how to leverage Syncthing’s features to streamline your data management.
+Get Expert Tips: Benefit from hands-on tutorials and practical advice.
 
 Make sure to subscribe to my YouTube channel and hit the notification bell to stay updated with all the latest content. I’m excited to share these upcoming videos with you and help you get the most out of Syncthing!
 
