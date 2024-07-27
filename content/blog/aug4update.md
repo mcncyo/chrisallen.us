@@ -5,9 +5,9 @@ draft: false
 author: "Chris Allen"
 categories: ["blog"]
 tags: ["blog", "syncthing", "eBay", "Proxmox"] 
-description: "update what is going on with my life"
+description: "Navigating project cancellations and server setup issues: the challenges of contract work and Proxmox server installations."
 ---
 
-The past couple of weeks has been crazy. My contract work got canceled because they didn't realize how much it would cost to have it installed. They have done this before also with other projects. They start it and never finish it.
+The past couple of weeks have been a whirlwind. My contract work got canceled because the client underestimated the installation costs. This isn't the first time they've done this; they have a history of starting projects and never finishing them.
 
-I am having issues getting my 1u Proxmox server up and running. I didn't realize you had to have a raid interface when I bought it. Some of the power cords are not long enough. Also, they sent me the wrong CPU heatsink.  They are sending me a replacement. It should come today in the mail.
+I'm also facing issues with my 1U Proxmox server setup. When I bought it, I didn't realize that a RAID interface was necessary. Additionally, some of the power cords are too short, and to top it off, they sent me the wrong CPU heatsink. Fortunately, a replacement is on the way and should arrive in the mail today.

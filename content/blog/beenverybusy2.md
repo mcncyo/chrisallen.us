@@ -5,9 +5,25 @@ draft: false
 author: "Chris Allen"
 categories: ["blog"]
 tags: ["blog", "syncthing", "eBay", "Proxmox"]
-description: "Explore May 2024 on Chris Allen's blog. He shares moments from Mother's Day, a special anniversary, a new exercise routine, and his insights into Zabbix monitoring. Celebrate his nephew's graduation and join him in reflections on family, growth, and tech."
+description: "Busy with work and life but planning new projects: Syncthing video, Hugo site migration, server upgrades, and networking enhancements."
 ---
 
-I have been very busy with work and life and haven’t had much time for youtube or work on both of my websites. I have released a few videos on my youtube channel. I have been doing computer work as a contractor for the past few months. But I will have some free time for the next two weeks to get things done. I am planning on creating a how-to-use syncthing video soon. I also have been working on converting both websites from WordPress to a Hugo static site.
+Busy Schedule Update: New Projects and Upgrades
 
-I also bought a few things from eBay. I got a new 1u server case into which I will be moving my Proxmox server. This means I had to get new heat sync for my CPUs on Proxmox. I also got a used hp ProCurve 24 port 1GB networking switch off from eBay. This way I can have many ports to add more devices to my network. I also put dd-wrt firmware on my tp-link archer C9 version 1. I would love to upgrade the router but that will be at least a few weeks to a couple of months before I get the money to do that. I also plan on adding a few 4GB hard drives to the Proxmox server and creating a ZFS pool with them.
+I've been incredibly busy with work and personal commitments recently, which has limited my time for YouTube and managing my websites. However, I’ve managed to release a few new videos on my YouTube channel. Moving forward, I’m excited to announce that I’ll be dedicating the next two weeks to focusing on my projects.
+Upcoming Projects and Video Content
+
+One of my major projects is creating a comprehensive how-to-use Syncthing video. This video will cover everything you need to know about Syncthing, including setup and practical uses.
+
+Additionally, I’m in the process of converting both of my websites from WordPress to Hugo static sites. This migration aims to enhance performance and improve user experience.
+Recent Purchases and Upgrades
+
+I recently purchased several items from eBay to upgrade my tech setup:
+
+    1U Server Case: I’m moving my Proxmox server into a new 1U server case. This upgrade required new heat sinks for my Proxmox CPUs.
+    HP ProCurve 24-Port 1GB Switch: This networking switch will expand my network capabilities, allowing me to connect more devices.
+    TP-Link Archer C9 Router: I’ve installed DD-WRT firmware on my TP-Link Archer C9 v1. Although I plan to upgrade the router eventually, that will be a few weeks to a couple of months down the line.
+
+I’m also planning to add a few 4GB hard drives to my Proxmox server and create a ZFS pool for better data management.
+
+Stay tuned for more updates and detailed videos on these exciting developments!
