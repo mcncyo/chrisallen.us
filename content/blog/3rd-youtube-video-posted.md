@@ -5,10 +5,13 @@ draft: false
 author: "Chris Allen"
 categories: ["youtube"]
 tags: ["youtube", "syncthing"]
-description: "My 3rd youtube video has been posted"
+description: "Just posted my 3rd Syncthing video! More guides coming soon on advanced options, one-way transfers, and installing the relay service. Check it out!"
 ---
 
-I posted my 3rd video about syncthing on youtube.
+I've just posted my third video about Syncthing on YouTube. Check it out here:
+
 {{< youtube _PXNxpdAvJM >}}
 
-I got two more videos about syncthing that I plan on adding to my youtube channel. It is how to use syncthing and go through a lot of the options. It will show you how to just transfer one way which I use for the backup of my Proxmox server. I will show you many advanced options for syncthing. I will also show you how to install the syncthing relay service in another video.
+I also have two more Syncthing videos planned for my channel. These upcoming videos will guide you through various Syncthing options, including how to set up one-way transfers, which I use for backing up my Proxmox server. Additionally, I'll demonstrate several advanced Syncthing features and show you how to install the Syncthing relay service.
+
+Stay tuned for more!
