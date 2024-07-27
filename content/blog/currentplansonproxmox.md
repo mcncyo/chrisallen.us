@@ -1,12 +1,20 @@
 ---
-title: "Current setup ideas for my Proxmox server"
+title: "Optimized Proxmox Server Backup Plan with Local Windows Share and Backblaze Integration"
 date: 2022-07-16T00:00:00-05:00
 draft: false
 author: "Chris Allen"
 categories: ["Proxmox"]
 tags: ["Proxmox"]
-description: "My current ideas for my Proxmox server"
+description: "Efficient Proxmox backup: 4x500GB SSDs, Windows 10 share for ISO/backups, auto-sync to Backblaze for reliable offsite protection."
 
 ---
-My current plan setup from my Proxmox server is as follows:
-going to have 4 500GB solid-state drives.  I am going to set up a windows share on my windows 10 computer that will host the iso and backups. This will allow me to back up my backups on a local computer without having to use space on my Proxmox server and it will be automatically backed up to my Backblaze account.
+For an efficient Proxmox server backup setup, I plan to utilize four 500GB solid-state drives (SSDs) to ensure robust storage performance. I will configure a Windows share on my Windows 10 PC, which will host ISO files and backups. This approach allows me to offload backup storage from the Proxmox server itself, optimizing its available space. Additionally, all backups will be automatically synced to my Backblaze account, providing a reliable offsite backup solution.
+
+Key Points:
+
+    4 x 500GB SSDs: High-performance storage for Proxmox server.
+    Windows 10 PC Share: Centralized location for ISO files and backups.
+    Efficient Storage Management: Reduces space usage on the Proxmox server.
+    Automatic Backblaze Backup: Ensures offsite data protection.
+
+By following this plan, I will maintain an efficient, scalable backup system for my Proxmox server while ensuring data redundancy and protection through local and cloud-based solutions.

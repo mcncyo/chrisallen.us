@@ -6,7 +6,7 @@ image: "images/post/07.jpg"
 author: "Chris Allen"
 categories: ["youtube"]
 tags: ["youtube"]
-description: "KINGJOY 75" Tripod from Amazon, $33. Versatile for phone & camera. Great for photography & videos. Review coming soon!"
+description: "KINGJOY 75 inch Tripod from Amazon, $33. Versatile for phone & camera. Great for photography & videos. Review coming soon!"
 ---
 
 Exciting New Tripod Purchase: KINGJOY 75" Camera Tripod Review

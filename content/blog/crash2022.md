@@ -5,7 +5,7 @@ draft: false
 author: "Chris Allen"
 categories: ["blog"]
 tags: ["car"]
-description: "Recovering from illness and a series of accidents, including a DoorDash trip and car damage from debris. Read about my challenging week.
+description: "Recovering from illness and a series of accidents, including a DoorDash trip and car damage from debris. Read about my challenging week."
 ---
 
 After a challenging period of illness that left me struggling to regain my footing before Thanksgiving, I found myself facing a series of unfortunate events. The difficulties began to mount last week, culminating in a series of accidents that tested my resilience.
