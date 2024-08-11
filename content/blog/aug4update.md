@@ -1,5 +1,5 @@
 ---
-title: "Recent Challenges and Setbacks: Contract Work and Proxmox Server Issues"
+title: "Recent Challenges: Contract Work and Proxmox Server Issues"
 date: 2022-08-04T11:00:00-05:00
 draft: false
 author: "Chris Allen"

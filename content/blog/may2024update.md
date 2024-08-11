@@ -1,11 +1,10 @@
 ---
-title: "May Highlights: Mother’s Day, Anniversary Celebrations, New Routines, and Tech Adventures"
+title: "May Highlights: Celebrations, Routines, and Tech"
 date: 2024-05-17T1:00:01-05:00
 draft: false
 author: "Chris Allen"
 categories: ["blog"]
-tags: ["Celebrated Mother’s Day and our 9th anniversary, started a new exercise routine, explored Zabbix monitoring, and enjoyed my nephew’s graduation party."]
-description: "What have been going on the past month"
+description: "Explore my May highlights, including Mother’s Day, anniversary celebrations, new routines, and exciting tech adventures. See how these moments shaped my month."
 ---
 Last month was truly eventful! It kicked off with the heartwarming celebration of Mother's Day, a time to honor the incredible women in our lives. Shortly after, my partner and I joyfully commemorated our 9th anniversary, reminiscing about the journey we've shared together over the years.
 

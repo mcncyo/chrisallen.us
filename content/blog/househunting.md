@@ -1,5 +1,5 @@
 ---
-title: "Juggling House Hunting, Health Challenges, and a New Church Routine: My Recent Journey"
+title: "House Hunting, Health Struggles, and New Church Routine
 date: 2024-03-12T15:25:52-05:00
 draft: false
 author: "Chris Allen"

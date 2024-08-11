@@ -1,5 +1,5 @@
 ---
-title: "Overcoming Challenges: My Recent Struggles and Accidents"
+title: "Overcoming Challenges: Recent Struggles and Accidents"
 date: 2022-12-15T13:25:23-05:00
 draft: false
 author: "Chris Allen"

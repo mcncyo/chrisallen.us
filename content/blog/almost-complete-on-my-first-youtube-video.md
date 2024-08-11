@@ -1,5 +1,5 @@
 ---
-title: "Almost complete on my first youtube video"
+title: "Almost done with my first YouTube video!"
 date: 2022-01-04T13:25:23-05:00
 draft: false
 author: "Chris Allen"

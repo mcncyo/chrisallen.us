@@ -1,5 +1,5 @@
 ---
-title: "July 2, 2022 update" 
+title: "Managing Back Pain and YouTube Projects: Updates & Plans" 
 date: 2022-07-02T08:00:00-05:00
 draft: false
 categories: ["blog"]
@@ -7,8 +7,10 @@ tags: ["youtube", "syncthing", "WordPress", "Hugo"]
 description: "This is just an update on what is going on the past couple of weeks."
 ---
 
+## Struggling with Back Pain and Balancing Work and YouTube Projects
 
+Lately, I’ve been dealing with significant back pain, which has unfortunately slowed down my progress on my website and the creation of a new video on using Syncthing for Computer Hacking 101 websites. As I return to my 8 to 5 contract work starting Tuesday, my time for these projects will be limited. This contract work is essential for supporting my family and funding my YouTube channel.
 
-I have been having a lot of backup pain lately.  So I haven't been able to do what I wanted to do with the website and create another video about how to use syncthing for computer hacking 101 websites.  I am going back to work starting on Tuesday and working my 8 to 5 job contract work.  So I will not have much time to work on the website or youtube.  I have to do this contract work because I need to bring in more money for my family and have money to buy things I need for my youtube channel. Hopefully, soon I will have the video out within the next week or so but not promise.  I also bought a 1u rack mount case that I need to install my Proxmox server into. (currently, it is in one of the old computer cases that I had since early 2000.)   I am planning on making a video about that soon also, but I want to get my office cleaned up before I do it.
+I’m working on releasing a new video about Syncthing for Computer Hacking 101 websites. While I hope to have it ready within the next week, I can’t make any promises due to my current situation. Additionally, I’ve purchased a 1U rack mount case for my Proxmox server, which is currently in an old computer case from the early 2000s. I plan to create a video about installing the Proxmox server into the new rack mount case, but I need to clean up my office before I can start filming.
 
-I also plan on selling a few things that I have on eBay. To see the things I am currently selling on eBay click <https://www.ebay.com/usr/computerhacking101>>.  I currently only have one thing up there but I am planning on adding my collection of baseball cards. and USB 2.0 5 port PCI card and USB to ps/2 adaptor to eBay soon.
+I’m also preparing to sell several items on eBay. You can check out what I currently have listed by visiting my eBay store at [https://www.ebay.com/usr/computerhacking101](https://www.ebay.com/usr/computerhacking101). Soon, I’ll be adding my collection of baseball cards, a USB 2.0 5-port PCI card, and a USB to PS/2 adapter.

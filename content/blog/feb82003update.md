@@ -1,5 +1,5 @@
 ---
-title: "ow to Use Syncthing: Upcoming YouTube Videos and Website Updates"
+title: "Using Syncthing: Upcoming YouTube Videos & Website Updates"
 date: 2023-02-08T13:25:23-05:00
 draft: false
 author: "Chris Allen"

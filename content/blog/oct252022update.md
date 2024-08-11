@@ -8,6 +8,16 @@ tags: ["hugo", "youtube", "mylife"]
 description: "Just an update on what is going on with me"
 ---
 
-I am currently looking for a good-paying job. I have had a few interviews in the last few days. Most of the jobs they want to offer me were not for me or had low pay. While I wait on finding a good job, I am doing some gig work like door dash, uber eats and GrubHub mostly in west Wichita.
+## Seeking a Good-Paying Job and Gig Work Update
 
-I have also been working on this website and <https://computerhacking101.com>> website. I also have been working on some youtube videos for my channel.
+I am actively **searching for a high-paying job** and have recently attended several interviews. Unfortunately, most of the positions offered were either not a good fit or offered low pay.
+
+In the meantime, I am engaging in gig work, including **DoorDash**, **Uber Eats**, and **GrubHub**, primarily in **West Wichita**. This helps me stay productive while continuing my job search.
+
+### Current Projects
+
+In addition to my job search, I am **working on improving my website** and contributing to [Computer Hacking 101](https://computerhacking101.com). I am also busy creating new content for my **YouTube channel**.
+
+Feel free to check out my work and stay tuned for updates!
+
+

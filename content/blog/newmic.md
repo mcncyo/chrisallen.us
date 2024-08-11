@@ -1,16 +1,18 @@
 ---
-title: "I just bought a new mic"
+title: "New Microphone Review: Better Sound Quality & Setup"
 date: 2022-08-28T13:25:23-05:00
 draft: false
 author: "Chris Allen"
 categories: ["youtube"]
 tags: ["youtube"]
-description: "I just bought a better mic"
+description: "Check out my new microphone setup and see how it performs compared to my old mic. Test videos coming soon!"
 ---
-Somehow my old mic stopped working. So I went to amazon and bought a new mic. Here it is with a picture of how I set it up.
+## New Microphone Setup
 
-{{< img src="/images/newmic.jpg">}}
+Somehow, my old mic stopped working, so I went to Amazon and bought a new mic. Here’s how I set it up:
 
-IF you would like the one you can go to <https://amzn.to/3curOvK>.
+![New Microphone Setup](/images/newmic.jpg)
 
-So far so good with the mic.  The test I did with it seems to be working better than my old mic. I will be posting a few test videos soon and will be posting them here.
+If you’d like to get the same mic, you can find it [here on Amazon](https://amzn.to/3curOvK).
+
+So far, the new mic seems to be performing better than my old one. I’ve conducted some tests, and the results are promising. I’ll be posting a few test videos soon to showcase its performance, so stay tuned!

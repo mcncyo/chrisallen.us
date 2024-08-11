@@ -1,12 +1,28 @@
 ---
-title: "New layout and design"
+title: "New Website Features: Search & Dark Mode Coming Soon"
 date: 2022-10-25T1:00:01-05:00
 draft: false
 author: "Chris Allen"
 categories: ["blog"]
 tags: ["hugo"]
-description: "update the website look with a new template"
+description: "Check out our latest website updates! We’ve added a search function (click the magnifying glass) and are working on bringing back dark mode. Some pages are still being fixed—thanks for your patience!"
 ---
-I am adding a few features and using a different theme for this website.  Currently, I have added a search engine where you click just click the magnifying glass in the top right corner to search for things on this website. I am planning on adding a few more features soon. It currently only has a white background but I am planning on adding dark mode back soon.
 
-There might be a few pages still missing. We are working on getting them fixed.
+# Website Updates and Features
+
+We’re excited to announce some new features and a fresh theme for our website!
+
+## New Features
+
+- **Search Functionality**: We’ve added a search engine to make it easier for you to find information. Just click the magnifying glass in the top right corner to start searching.
+- **Upcoming Enhancements**: We’re planning to introduce additional features soon to improve your browsing experience.
+
+## Design Changes
+
+- **Background Color**: Currently, the website has a white background. We’re working on reintroducing dark mode to provide an alternative viewing experience.
+
+## Missing Pages
+
+- **Page Updates**: Some pages might still be missing or under construction. We’re actively working to fix these issues and will have them resolved shortly.
+
+Stay tuned for more updates and thank you for your patience!

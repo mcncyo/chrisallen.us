@@ -1,5 +1,5 @@
 ---
-title: "Unlock the Power of Syncthing: Watch My Latest Video and Stay Tuned for More!"
+title: "Unlock Syncthing’s Power: Watch My Latest Video & More Coming!"
 date: 2022-02-22T13:25:23-05:00
 draft: false
 author: "Chris Allen"

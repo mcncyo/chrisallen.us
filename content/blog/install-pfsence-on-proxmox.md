@@ -1,5 +1,5 @@
 ---
-title: "Upgrading My Network: Adding a 4-Port Ethernet Card to My Proxmox Server"
+title: "Upgrading Network: Adding 4-Port Ethernet Card to Proxmox"
 date: 2021-12-18T14:19:23-05:00
 draft: false
 author: "Chris Allen"

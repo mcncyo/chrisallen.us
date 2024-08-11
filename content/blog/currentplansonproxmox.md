@@ -1,5 +1,5 @@
 ---
-title: "Optimized Proxmox Server Backup Plan with Local Windows Share and Backblaze Integration"
+title: "Optimized Proxmox Backup: Local Windows Share & Backblaze"
 date: 2022-07-16T00:00:00-05:00
 draft: false
 author: "Chris Allen"

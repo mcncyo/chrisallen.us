@@ -1,5 +1,5 @@
 ---
-title: "Updating My Tech Plans: Delaying pfSense Installation on Proxmox and Focusing on New Content"
+title: "Updating Tech Plans: Delaying pfSense on Proxmox, New Content"
 date: 2021-12-21T14:19:23-05:00
 draft: false
 author: "Chris Allen"

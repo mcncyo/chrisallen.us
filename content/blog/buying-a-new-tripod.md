@@ -1,5 +1,5 @@
 ---
-title: "KINGJOY 75 inch Camera Tripod Review: Affordable Versatility for Phones and Cameras"
+title: "KINGJOY 75 Tripod Review: Affordable Versatility for Devices"
 date: 2022-09-11T00:00:00-05:00
 draft: false
 image: "images/post/07.jpg"

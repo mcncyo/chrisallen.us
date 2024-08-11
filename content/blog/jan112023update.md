@@ -1,5 +1,5 @@
 ---
-title: "Navigating a Busy Season: Health Updates, Network Upgrades, and Upcoming Content"
+title: "Busy Season: Health Updates, Network Upgrades, New Content" 
 date: 2023-01-11T13:25:23-05:00
 draft: false
 author: "Chris Allen"

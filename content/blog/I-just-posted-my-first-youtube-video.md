@@ -1,5 +1,5 @@
 ---
-title: "Dropbox vs. Syncthing: Which File Sync Solution is Right for You?"
+title: "Dropbox vs. Syncthing: Which File Sync Solution is Best?""
 date: 2022-01-23T11:28:29-05:00
 draft: false
 author: "Chris Allen"

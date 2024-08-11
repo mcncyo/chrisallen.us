@@ -1,5 +1,5 @@
 ---
-title: "Exploring Housing Options: Building vs. Buying, and Other Life Updates"
+title: "Housing Options: Build vs. Buy & Other Life Updates"
 date: 2024-07-22T13:25:23-05:00
 draft: false
 author: "Chris Allen"

@@ -1,5 +1,5 @@
 ---
-title: "Navigating Backup Challenges and Upcoming Projects: Updates on My Website and YouTube Channel"
+title: "Backup Challenges & Projects: Website and YouTube Updates"
 date: 2022-07-02T08:00:00-05:00
 draft: false
 author: "Chris Allen"

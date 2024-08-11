@@ -1,14 +1,14 @@
 ---
-title: "Navigating Family Health and Work Demands: A Personal Update"
+title: "Balancing Work, Family, and Self-Care: Life Updates"
 date: 2023-10-28T13:25:23-05:00
 draft: false
 author: "Chris Allen"
 categories: ["blog"]
 tags: ["life", "website"]
-description: Balancing family health challenges, a demanding full-time job, and personal time. Reflecting on work-life balance and self-care amidst the chaos.
+description:  "Discover how I’m navigating family health challenges, balancing a demanding full-time job, and finding time for self-care. Read about my journey through these busy times and my plans for a more balanced future."
 ---
 
- Life Updates: Balancing Work, Family, and Personal Life
+
 
 ## Introduction
 
@@ -33,4 +33,3 @@ As I continue to navigate these challenges, I’m hopeful for a more balanced an
 ## Conclusion
 
 Life can be unpredictable and busy, but sharing these updates helps me reflect and stay grounded. Thank you for reading and for your continued support. Stay tuned for more updates as I continue to balance work, family, and personal life.
-

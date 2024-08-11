@@ -1,5 +1,5 @@
 ---
-title: "Exciting Tech Upgrades: Syncthing Tutorial, Website Migration to Hugo, and New Gear"
+title: "Exciting Upgrades: Syncthing Tutorial, Hugo Migration, New Gear"
 date: 2022-06-15T11:25:52-05:00
 draft: false
 author: "Chris Allen"

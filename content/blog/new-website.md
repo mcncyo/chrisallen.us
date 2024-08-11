@@ -5,8 +5,16 @@ draft: false
 author: "Chris Allen"
 categories: ["blog"]
 tags: ["youtube", "syncthing", "wordpress", "hugo"]
-description: "Explore the journey of converting a WordPress site to Hugo with Chris Allen. Discover insights on site enhancements, future plans, and learn about converting ComputerHacking101.com to Hugo. Stay updated on upcoming tutorials, including how to use Syncthing, and find out what Chris is selling on eBay. Visit now for valuable tips and resources."
+description: Discover my recent transition from WordPress to Hugo and the ongoing conversion of Computer Hacking 101 to Hugo. Look out for my upcoming Syncthing tutorial video before I return to my 8 to 5 job on July 5. Explore the items I’m selling on eBay as I continue my office cleanup.
 ---
-I just convert this wordpress site to hugo.  There is still a few more things I want to change and add to it.  I also started working on converting <https://computerhacking101.com> to hugo also.
+## Website Conversion and Updates
 
-I am planning on getting the video out how to use syncthing this week before I go back to my 8 to 5 job contract work starting on July 5.   I almost got my office clean up and starting to put a few of my things that I want to sell on ebay.  To see the things I am currently selling on ebay click <https://www.ebay.com/usr/computerhacking101>
+I have recently converted my WordPress site to Hugo. There are still a few more changes and additions I plan to make. Additionally, I have started working on converting [Computer Hacking 101](https://computerhacking101.com) to Hugo as well.
+
+## Upcoming Video Release
+
+I am planning to release a video on how to use Syncthing this week before returning to my 8 to 5 job contract work, which begins on July 5. Stay tuned for this informative video!
+
+## Office Cleanup and eBay Listings
+
+My office cleanup is almost complete, and I am starting to list some items I want to sell on eBay. To see the items I am currently selling, click [here](https://www.ebay.com/usr/computerhacking101).
