@@ -19,5 +19,3 @@ Thanksgiving week has been quite difficult for me this year. We celebrated my bi
 In other news, I'm still on the hunt for a computer job. The search continues, and I'm hopeful that I'll find the right opportunity soon. On top of that, I'm working on creating a few YouTube videos. However, my recent illness has slowed down my progress, and I haven't been able to work on them as much as I would have liked. Despite this setback, I aim to have at least one video published in the next couple of weeks.
 
 Stay tuned for updates, and thank you for your patience and support!
-
-
