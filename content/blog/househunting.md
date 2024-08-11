@@ -1,5 +1,5 @@
 ---
-title: "House Hunting, Health Struggles, and New Church Routine
+title: "House Hunting, Health Struggles, and New Church Routine"
 date: 2024-03-12T15:25:52-05:00
 draft: false
 author: "Chris Allen"
@@ -63,4 +63,3 @@ I’ve recently started taking a half-hour commute each way to my church. This n
 ## Conclusion
 
 Navigating these busy months has been challenging, but it’s also been a time of growth and learning. From house hunting to dealing with health issues and embracing a new church routine, each experience has offered valuable lessons. I’m looking forward to what the future holds and hoping for a bit more balance in the months to come.
-
